@@ -1,6 +1,6 @@
 name: LiveTexts
 main: EmreTr1\LiveTexts
-version: 1.4pre
+version: 1.4
 api: 2.0.0
 author: EmreTr1
 description: Like LiveSigns plugin just more basic.
