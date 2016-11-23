@@ -10,7 +10,7 @@ This plugin can add FloatingText to your Server!
  - Pocketmine plugin -
 
 Plugin by EmreTr1
-Current Version: 1.4pre(beta)
+Current Version: 1.4
 
 # Variables:
 
@@ -20,7 +20,7 @@ Current Version: 1.4pre(beta)
 - {worldscount} = Show count of Worlds 
 - {line} = Create a New Line(You can use on without File of LiveTexts)
 
-## For 1.4pre
+## For 1.4
 
 - {ip} = Show Server IP Address
 - {port} = Show Server Port
@@ -36,7 +36,7 @@ Current Version: 1.4pre(beta)
 - {nbt} = Player NBT data
 - {level} = Player level name
 
-## Fixed Bugs on 1.4pre:
+## Fixed Bugs on 1.4:
 
 - Fixed LiveText not update bug
 - Fixed LaggClear bug
