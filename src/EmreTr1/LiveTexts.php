@@ -162,7 +162,6 @@
     §7- /lt remove :§e Remove a LiveText when Tap a entity\n
     §7- /lt updateall :§e Update All old LiveTexts to New LiveTexts\n
     §7- /lt cancel :§e Cancel remove event";
-    //§7- /lt tp <textname> :§e tp a livetext";   
    		if(!empty($args[0])){
    			$main=LiveTexts::getInstance();
    			$core=LiveTexts::getInstance();
